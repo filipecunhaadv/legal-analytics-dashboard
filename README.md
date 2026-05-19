@@ -41,6 +41,28 @@ Beyond the analytical side, the project also focused on visual organization, use
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Geral](Images/Dashboard-geral.png)
+
+### Filter by Region
+
+![Filtro Região](Images/Dashboard-filtro-região.png)
+
+### Filter by Responsible
+
+![Filtro Responsável](Images/Dashboard-filtro-responsavel.png)
+
+### Combined Filters
+
+![Filtro Responsável](Images/Dashboard-multifiltro.png)
+
+### Financial Analysis
+
+![Análise Financeira](Images/Analise-financeira.png)
+
+---
+
 ## Dashboard Structure
 
 The dashboard was divided into four main areas:
