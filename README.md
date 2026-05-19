@@ -63,6 +63,12 @@ Beyond the analytical side, the project also focused on visual organization, use
 
 ![Análise Financeira](Images/Analise-financeira.png)
 
+## Interactive Version
+
+You can also explore the dashboard directly in Excel Online through the link below:
+
+[Open Interactive Dashboard](https://1drv.ms/x/c/ffa01e629d1effa4/IQDc3jU2H8X7QJoraix0RsmHAanItEOeyVdMhJgCv5PPl3g?e=UJApBe)
+
 ---
 
 ## Dashboard Structure
