@@ -1,3 +1,5 @@
+[English Version](README.md)
+
 # Dashboard Jurídico em Excel: Indicadores Operacionais e Financeiros
 
 ## Sobre o projeto
