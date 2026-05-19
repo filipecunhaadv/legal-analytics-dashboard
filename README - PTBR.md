@@ -2,8 +2,6 @@
 
 ## Sobre o projeto
 
-## Sobre o projeto
-
 Este projeto surgiu como uma forma de unir minha experiência jurídica com os estudos na área de dados.
 
 A ideia foi construir um dashboard em Excel capaz de analisar uma carteira processual simulada sob diferentes perspectivas: operacional, financeira e estratégica.
@@ -36,6 +34,28 @@ Além da parte analítica, também houve preocupação com organização visual,
 * Segmentações de Dados
 * KPIs
 * Fórmulas do Excel
+
+---
+
+## Preview da Dashboard
+
+![Dashboard Geral](Images/Dashboard-geral.png)
+
+### Filtro por Região
+
+![Filtro Região](Images/Dashboard-filtro-região.png)
+
+### Filtro por Responsável
+
+![Filtro Responsável](Images/Dashboard-filtro-responsavel.png)
+
+### Filtros Combinados
+
+![Filtro Multifiltro](Images/Dashboard-multifiltro.png)
+
+### Análise Financeira
+
+![Análise Financeira](Images/Analise-financeira.png)
 
 ---
 
