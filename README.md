@@ -1,3 +1,5 @@
+[Versão em Português](README-PTBR.md)
+
 # Legal Dashboard in Excel: Operational and Financial Indicators
 
 ## About the project
