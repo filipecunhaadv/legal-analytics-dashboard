@@ -59,6 +59,12 @@ Além da parte analítica, também houve preocupação com organização visual,
 
 ![Análise Financeira](Images/Analise-financeira.png)
 
+## Versão Interativa
+
+Também é possível explorar a dashboard diretamente no Excel Online pelo link abaixo:
+
+[Abrir Dashboard Interativa](https://1drv.ms/x/c/ffa01e629d1effa4/IQDc3jU2H8X7QJoraix0RsmHAanItEOeyVdMhJgCv5PPl3g?e=UJApBe)
+
 ---
 
 ## Estrutura do dashboard
